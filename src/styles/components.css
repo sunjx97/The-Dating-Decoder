@@ -191,3 +191,16 @@
 footer p a {
   @apply transition-all duration-200 hover:text-white;
 }
+
+.row.gy-4 > [class*="col-12"] > .rounded-lg {
+  aspect-ratio: 16 / 9 !important;
+  width: 100% !important;
+  overflow: hidden !important;
+  display: block !important;
+}
+
+.row.gy-4 > [class*="col-12"] > .rounded-lg img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
