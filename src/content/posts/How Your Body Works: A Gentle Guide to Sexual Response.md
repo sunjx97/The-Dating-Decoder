@@ -2,7 +2,7 @@
 title: "How Your Body Works: A Gentle Guide to Sexual Response"
 meta_title: "Understanding Sexual Response: A Guide for Couples | The Dating Decoder"
 description: "Most of us never learned the basics of how arousal actually works. Here's what the science says—and why it matters for your relationship."
-date: 2025-03-25T10:50:50Z
+date: 2025-01-25T10:50:50Z
 image: "/images/posts/vitaly-gariev-cEmdwzbx19E-unsplash.jpg"
 categories: ["Desire Decoded"]
 authors: ["Jadwiga Ostrowska"]
