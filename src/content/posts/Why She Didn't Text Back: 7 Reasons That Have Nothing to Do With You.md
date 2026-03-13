@@ -72,6 +72,3 @@ Instead of refreshing your messages every five minutes, try this:
 - **Keep living your life.** Talk to other people. Go on other dates. Read a book. Touch grass.
 - **If she never replies?** You have your answer. It stings, but it frees you up for someone who’s excited to text you back.
 
----
-
-**Have a texting horror story or a mystery silence you need decoded?** Drop it in the comments (anonymous is fine)—we might break it down in a future post. 💬
