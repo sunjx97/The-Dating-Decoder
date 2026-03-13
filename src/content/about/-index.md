@@ -1,5 +1,5 @@
 ---
-title: "I’m Jadwiga Ostrowska, A content writer focusing on dating and relationships."
+title: "I’m Jadwiga Ostrowska, a content writer focusing on dating and relationships."
 meta_title: "About"
 image: "/images/author.png"
 draft: false
