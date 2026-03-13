@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "The Most Awkward First Date Stories (Reader Confessions)"
 meta_title: "Awkward First Date Stories: Reader Confessions | The Dating Decoder"
@@ -84,4 +83,3 @@ That’s the real test.
 ---
 
 **Got an awkward story of your own? If you do, you're not alone—we've all been there. And who knows? Maybe your disaster date will turn into a happy ending too. 😉
-```
