@@ -2,7 +2,7 @@ import { glob } from "astro/loaders";
 import { defineCollection } from "astro:content";
 import { z } from "astro/zod";
 
-// About collection schema
+// About collection schema 
 const aboutCollection = defineCollection({
   loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/about" }),
   schema: z.object({
