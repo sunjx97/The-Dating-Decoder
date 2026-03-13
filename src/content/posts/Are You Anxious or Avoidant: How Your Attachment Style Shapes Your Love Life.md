@@ -1,5 +1,5 @@
 ---
-title: "Are You Anxious or Avoidant? How Your Attachment Style Shapes Your Love Life"
+title: "Are You Anxious or Avoidant: How Your Attachment Style Shapes Your Love Life"
 meta_title: "Attachment Styles in Dating: Anxious, Avoidant, Secure | The Dating Decoder"
 description: "Ever wonder why you keep dating the same type, or why closeness scares you? It might be your attachment style. Here’s what you need to know."
 date: 2025-08-19T10:10:50Z
