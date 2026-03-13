@@ -85,6 +85,14 @@ const pagesCollection = defineCollection({
   }),
 });
 
+const legalCollection = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "src/content/legal" }),
+  schema: z.object({
+    title: z.string(),
+    meta_title: z.string().optional(),
+  }),
+});
+
 // Export collections
 export const collections = {
   posts: postsCollection,
@@ -92,4 +100,5 @@ export const collections = {
   contact: contactCollection,
   authors: authorsCollection,
   pages: pagesCollection,
+  legal: legalCollection,
 };
