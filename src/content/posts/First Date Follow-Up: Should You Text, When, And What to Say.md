@@ -2,7 +2,7 @@
 title: "First Date Follow-Up: Should You Text, When, And What to Say"
 meta_title: "First Date Follow-Up: The Perfect Text Timing and Scripts | The Dating Decoder"
 description: "You had a great first date. Now what? Here's exactly when to text, what to say, and how to avoid the most common follow-up mistakes."
-date: 2026-10-21T13:30:56Z
+date: 2025-10-21T13:30:56Z
 image: "/images/posts/matt-w-newman-TLT9imTO3Vg-unsplash.jpg"
 categories: ["Dating Decoded"]
 authors: ["Jadwiga Ostrowska"]
