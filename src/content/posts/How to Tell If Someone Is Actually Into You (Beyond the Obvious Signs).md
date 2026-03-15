@@ -2,7 +2,7 @@
 title: "How to Tell If Someone Is Actually Into You (Beyond the Obvious Signs)"
 meta_title: "Signs Someone Likes You: Read Body Language and Interest | The Dating Decoder"
 description: "You're not sure if they're interested or just being polite. Here's how to read the real signals—without driving yourself crazy overanalyzing."
-date: 2026-02-28T12:02:26Z
+date: 2025-02-28T12:02:26Z
 image: "/images/posts/someone-into-you.jpg"
 categories: ["Dating Decoded"]
 authors: ["Jadwiga Ostrowska"]
