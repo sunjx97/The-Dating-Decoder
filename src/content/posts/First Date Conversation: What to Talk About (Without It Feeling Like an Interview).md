@@ -2,7 +2,7 @@
 title: "First Date Conversation: What to Talk About (Without It Feeling Like an Interview)"
 meta_title: "First Date Conversation: Topics That Spark Real Connection | The Dating Decoder"
 description: "Awkward silences? Forced small talk? Here's how to keep the conversation flowing naturally—and actually enjoy getting to know someone new."
-date: 2026-03-15T18:00:08Z
+date: 2026-03-15T18:10:08Z
 image: "/images/posts/first-date-conversation.jpg"
 categories: ["Dating Decoded"]
 authors: ["Jadwiga Ostrowska"]
