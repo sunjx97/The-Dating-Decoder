@@ -2,7 +2,7 @@
 title: "What He's Not Saying: Understanding the Man Who Struggles to Speak"
 meta_title: "Why Men Struggle to Express Emotions | The Dating Decoder"
 description: "He goes quiet when things get hard. He says 'I'm fine' when he's clearly not. Here's what's really going on—and how to bridge the gap."
-date: 2025-01-02T13:00:30Z
+date: 2025-01-02T13:01:30Z
 image: "/images/posts/what-hes-not-saying.jpg"
 categories: ["Relationship Psychology"]
 authors: ["Jadwiga Ostrowska"]
