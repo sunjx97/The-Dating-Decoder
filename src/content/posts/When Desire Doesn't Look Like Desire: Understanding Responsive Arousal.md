@@ -2,7 +2,7 @@
 title: "When Desire Doesn't Look Like Desire: Understanding Responsive Arousal"
 meta_title: "Responsive Desire: Why You Might Want It Differently | The Dating Decoder"
 description: "If you've ever thought 'I'm not in the mood, but if we started I'd enjoy it'—this one's for you. Here's how responsive desire works and why it's completely normal."
-date: 2025-06-03T15:50:05Z
+date: 2025-06-03T15:53:05Z
 image: "/images/posts/responsive-desire.jpg"
 categories: ["Desire Decoded"]
 authors: ["Jadwiga Ostrowska"]
